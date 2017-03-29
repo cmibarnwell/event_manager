@@ -10,6 +10,26 @@ def clean_zipcode(zipcode)
   return zipcode
 end
 
+def clean_phone_number(messy_number)
+  number = ""
+  iCount = 0
+  messy_number.split("").each do |char|
+    if char.ord >= "0".ord and char.ord <= "9".ord
+      number << char
+    end
+  end
+
+  if number.length == 11 and number[0] == "1"
+    number = number[1..10]
+  elsif number.length != 10
+    return "bad"
+  end
+  number.insert(0, "(")
+  number.insert(4, ")")
+  number.insert(5, "-")
+  number.insert(9, "-")
+end
+
 def legislators_by_zipcode(zipcode)
   legislators = Sunlight::Congress::Legislator.by_zipcode(zipcode)
 =begin Use this to return a string
@@ -67,6 +87,8 @@ contents.each do |row|
   name = row[:first_name]
 
   zipcode = clean_zipcode(row[:zipcode])
+
+  phone_number = clean_phone_number(row[:homephone])
 
   legislators = legislators_by_zipcode(zipcode)
 

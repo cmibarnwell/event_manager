@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a1191b-ecb1-4722-a99d-d751f9e14a90" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/event_manager.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form_letter.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/eventManager.iml" afterPath="$PROJECT_DIR$/.idea/eventManager.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/form_letter.erb" afterPath="$PROJECT_DIR$/form_letter.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/event_manager.rb" afterPath="$PROJECT_DIR$/lib/event_manager.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks1.html" afterPath="$PROJECT_DIR$/lib/output/thanks1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks10.html" afterPath="$PROJECT_DIR$/lib/output/thanks10.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks11.html" afterPath="$PROJECT_DIR$/lib/output/thanks11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks12.html" afterPath="$PROJECT_DIR$/lib/output/thanks12.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks13.html" afterPath="$PROJECT_DIR$/lib/output/thanks13.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks14.html" afterPath="$PROJECT_DIR$/lib/output/thanks14.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks15.html" afterPath="$PROJECT_DIR$/lib/output/thanks15.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks16.html" afterPath="$PROJECT_DIR$/lib/output/thanks16.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks17.html" afterPath="$PROJECT_DIR$/lib/output/thanks17.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks18.html" afterPath="$PROJECT_DIR$/lib/output/thanks18.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks19.html" afterPath="$PROJECT_DIR$/lib/output/thanks19.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks2.html" afterPath="$PROJECT_DIR$/lib/output/thanks2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks3.html" afterPath="$PROJECT_DIR$/lib/output/thanks3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks4.html" afterPath="$PROJECT_DIR$/lib/output/thanks4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks5.html" afterPath="$PROJECT_DIR$/lib/output/thanks5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks6.html" afterPath="$PROJECT_DIR$/lib/output/thanks6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks7.html" afterPath="$PROJECT_DIR$/lib/output/thanks7.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks8.html" afterPath="$PROJECT_DIR$/lib/output/thanks8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/output/thanks9.html" afterPath="$PROJECT_DIR$/lib/output/thanks9.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +33,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/eventManager@event_manager.coverage" NAME="event_manager Coverage Results" MODIFIED="1490808673663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="eventManager" />
+    <SUITE FILE_PATH="coverage/eventManager@event_manager.coverage" NAME="event_manager Coverage Results" MODIFIED="1490816475401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="eventManager" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -28,18 +44,18 @@
       <file leaf-file-name="event_manager.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/event_manager.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state relative-caret-position="355">
+              <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thanks16.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/output/thanks16.html">
+      <file leaf-file-name="thanks15.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/output/thanks15.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            <state relative-caret-position="150">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -48,8 +64,8 @@
       <file leaf-file-name="form_letter.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/form_letter.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="165">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -58,8 +74,8 @@
       <file leaf-file-name="event_attendees.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/event_attendees.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -86,8 +102,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="644" />
-    <option name="width" value="796" />
+    <option name="x" value="722" />
+    <option name="width" value="718" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -352,18 +368,18 @@
       <workItem from="1490663395290" duration="3858000" />
       <workItem from="1490804983646" duration="407000" />
       <workItem from="1490807144340" duration="24000" />
-      <workItem from="1490807394868" duration="1194000" />
+      <workItem from="1490807394868" duration="4105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11484000" />
+    <option name="totallyTimeSpent" value="14395000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="644" y="0" width="796" height="900" extended-state="6" />
+    <frame x="722" y="0" width="718" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21859297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24233983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -483,16 +499,16 @@
     <entry file="file://$PROJECT_DIR$/event_manager.rb" />
     <entry file="file://$PROJECT_DIR$/event_attendees.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/form_letter.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -507,8 +523,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/event_manager.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state relative-caret-position="355">
+          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -517,6 +533,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/output/thanks17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/output/thanks18.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/output/thanks19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/output/thanks15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding />
         </state>
       </provider>
